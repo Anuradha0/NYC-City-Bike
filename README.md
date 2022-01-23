@@ -18,21 +18,22 @@ Your final results should look similar to the following image:
 
 **Deliverable 2:**
 1) Checkout Time for Users: In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
-
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D2.1.png?raw=true)
 
 2) Create the Checkout Times by Gender Viz: In this visualization, you’ll graph the length of time that bikes are checked out for each gender.
-
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D2.2.png?raw=true)
 
 3) Create the Trips by Weekday for Each Hour Viz: In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
-
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D2.3.png?raw=true)
 
 4) Create the Trips by Gender (Weekday per Hour) Viz: In this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
-
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D2.4.png?raw=true)
 
 5) Create the User Trips by Gender by Weekday Viz: In this visualization, you’ll graph the number of bike trips by gender for each hour for each day of the week as a heatmap.
-
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D2.5.png?raw=true)
 
 6) Males seems to be the largest Citibike users any day of the week.
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D3.1.png?raw=true)
 
 **SUMMARY:**
 I  observed that during weekdays bike usage is more around mid-morning and late afternoons, meaning our rides are using CitiBikes as a commuting alternative.

@@ -33,7 +33,7 @@ Your final results should look similar to the following image:
 ![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D2.5.png?raw=true)
 
 6) Males seems to be the largest Citibike users any day of the week.
-![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D3.1.png?raw=true)
+ ![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D3.1.png?raw=true)
 
 **SUMMARY:**
 I  observed that during weekdays bike usage is more around mid-morning and late afternoons, meaning our rides are using CitiBikes as a commuting alternative.

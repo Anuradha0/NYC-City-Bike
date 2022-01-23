@@ -41,6 +41,7 @@ I  observed that during weekdays bike usage is more around mid-morning and late 
 Two additional visualizations are suggested for future analysis
 
 1) Analysis tells that more than 80% are Subscribers, with an ~19% or regular non-subscribers
-
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D3.2.png?raw=true)
 
 2) Total of 65% General Male use, 25% General Female with an Unknown gender that relies on non-subscribers users. In addition, Peak by Gener spike on same time frame.
+![name-of-you-image](https://github.com/Anuradha0/NYC-City-Bike/blob/main/Images/D3.1.png?raw=true)
